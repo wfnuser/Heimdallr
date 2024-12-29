@@ -4,6 +4,7 @@ cabal-dev
 *.o
 *.hi
 *.hie
+.cabal*
 *.chi
 *.chs.h
 *.dyn_o

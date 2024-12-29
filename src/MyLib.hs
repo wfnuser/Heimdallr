@@ -1,4 +1,5 @@
-module MyLib (someFunc) where
+module MyLib
+    ( module Math.FiniteField.GF
+    ) where
 
-someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+import Math.FiniteField.GF
