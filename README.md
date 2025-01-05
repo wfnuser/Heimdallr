@@ -1,4 +1,4 @@
-# Heimdallr
+# Heimdall
 
 Guard your data like Heimdall guards Asgard.
 
